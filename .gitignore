@@ -1,0 +1,10 @@
+# Ignore the dataset
+data/
+
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
