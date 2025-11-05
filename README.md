@@ -1,7 +1,3 @@
-Here is a professional README.md file for your GitHub portfolio, based on the Jupyter Notebook you provided.
-
----
-
 # **CRNN CAPTCHA Solver**
 
 This project is an Optical Character Recognition (OCR) model designed to solve alphanumeric CAPTCHAs. It implements a **Convolutional Recurrent Neural Network (CRNN)** architecture combined with a **Connectionist 1Temporal Classification (CTC)** loss function to perform sequence-to-sequence transcription of the CAPTCHA images.
@@ -12,7 +8,6 @@ This implementation was developed in Google Colab and includes several key fixes
 
 Here is an example of the model's predictions on random samples from the test set. The model plots the original image alongside the preprocessed image (which is fed into the network) and shows the "Actual" vs. "Predicted" text.
 
-*(**Note:** You can screenshot the evaluation output from your notebook and add it here. The table below represents the results from the provided run.)*
 
 | Original Image | Preprocessed Image & Prediction |
 | :---- | :---- |
@@ -62,7 +57,7 @@ This project uses a custom-implemented CTC loss function (ctc\_loss\_function). 
 
 ## **🚀 Future Improvements**
 
-The 10% accuracy provides a clear baseline. The next steps to improve this model would be:
+The 60% accuracy provides a clear baseline. The next steps to improve this model would be:
 
 * **Tune Preprocessing:** The current pipeline is aggressive. Experimenting with different thresholding, blurring, and morphological operations could be key to retaining character integrity.  
 * **Hyperparameter Tuning:** Adjust the learning rate, batch size, optimizer (e.g., AdamW), and RNN hidden units.  
