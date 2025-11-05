@@ -16,11 +16,11 @@ Here is an example of the model's predictions on random samples from the test se
 
 | Original Image | Preprocessed Image & Prediction |
 | :---- | :---- |
-| ![Original 0dx9](data/main/test/0dx9-0.png) | **Actual:** 0dx9 | **Predicted:** 0dx9 ✓ |
-| ![Original w7na](data/main/test/w7na-0.png) | **Actual:** w7na | **Predicted:** w7na ✓ |
-| ![Original bg2l](data/main/test/bg2l-0.png) | **Actual:** bg2l | **Predicted:** b51 ✗ |
-| ![Original lag9vt](data/main/test/lag9vt-0.png) | **Actual:** lag9vt | **Predicted:** la09vt ✗ |
-| ![Original xgyfaku](data/main/test/xgyfaku-0.png) | **Actual:** xgyfaku | **Predicted:** xgyfaku ✓ |
+| ![Original 0dx9](img/0dx9-0.png) | **Actual:** 0dx9 | **Predicted:** 0dx9 ✓ |
+| ![Original w7na](img/w7na-0.png) | **Actual:** w7na | **Predicted:** w7na ✓ |
+| ![Original bg2l](img/bg2l-0.png) | **Actual:** bg2l | **Predicted:** b51 ✗ |
+| ![Original lag9vt](img/lag9vt-0.png) | **Actual:** lag9vt | **Predicted:** la09vt ✗ |
+| ![Original xgyfaku](img/xgyfaku-0.png) | **Actual:** xgyfaku | **Predicted:** xgyfaku ✓ |
 
 ### **Performance**
 
