@@ -9,8 +9,8 @@ This implementation was developed in Google Colab and includes several key fixes
 Here is an example of the model's predictions on random samples from the test set. The model plots the original image alongside the preprocessed image (which is fed into the network) and shows the "Actual" vs. "Predicted" text.
 
 
-| Original Image | Preprocessed Image & Prediction |
-| :---- | :---- |
+| Original Image | Actual | Predicted |
+| :---: | :---- | :---- |
 | ![Original 0dx9](img/0dx9-0.png) | **Actual:** 0dx9 | **Predicted:** 0dx9 ✓ |
 | ![Original w7na](img/w7na-0.png) | **Actual:** w7na | **Predicted:** w7na ✓ |
 | ![Original bg2l](img/bg2l-0.png) | **Actual:** bg2l | **Predicted:** b51 ✗ |
